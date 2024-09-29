@@ -1,0 +1,6 @@
+前台：http://localhost:8080//springboot7y37k/front/index.html
+后台：http://localhost:8080/springboot7y37k/admin/dist/index.html#/login
+管理员账号：abo
+管理员密码：abo
+用户账号：用户1
+用户密码：123456
